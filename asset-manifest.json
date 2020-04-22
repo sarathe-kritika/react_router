@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.com/react_router/static/css/main.5f361e03.chunk.css",
-    "main.js": "/github.com/react_router/static/js/main.e881f0dc.chunk.js",
-    "main.js.map": "/github.com/react_router/static/js/main.e881f0dc.chunk.js.map",
-    "runtime-main.js": "/github.com/react_router/static/js/runtime-main.93cce48f.js",
-    "runtime-main.js.map": "/github.com/react_router/static/js/runtime-main.93cce48f.js.map",
-    "static/css/2.de424728.chunk.css": "/github.com/react_router/static/css/2.de424728.chunk.css",
-    "static/js/2.44185876.chunk.js": "/github.com/react_router/static/js/2.44185876.chunk.js",
-    "static/js/2.44185876.chunk.js.map": "/github.com/react_router/static/js/2.44185876.chunk.js.map",
-    "index.html": "/github.com/react_router/index.html",
-    "precache-manifest.32a489f4fe1648083ef30df85150edff.js": "/github.com/react_router/precache-manifest.32a489f4fe1648083ef30df85150edff.js",
-    "service-worker.js": "/github.com/react_router/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/github.com/react_router/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/github.com/react_router/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.44185876.chunk.js.LICENSE.txt": "/github.com/react_router/static/js/2.44185876.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/react_router/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github.io/react_router/static/js/main.32466001.chunk.js",
+    "main.js.map": "/github.io/react_router/static/js/main.32466001.chunk.js.map",
+    "runtime-main.js": "/github.io/react_router/static/js/runtime-main.adc114f0.js",
+    "runtime-main.js.map": "/github.io/react_router/static/js/runtime-main.adc114f0.js.map",
+    "static/css/2.de424728.chunk.css": "/github.io/react_router/static/css/2.de424728.chunk.css",
+    "static/js/2.44185876.chunk.js": "/github.io/react_router/static/js/2.44185876.chunk.js",
+    "static/js/2.44185876.chunk.js.map": "/github.io/react_router/static/js/2.44185876.chunk.js.map",
+    "index.html": "/github.io/react_router/index.html",
+    "precache-manifest.105fcb6a3fae124013e4521179fb703d.js": "/github.io/react_router/precache-manifest.105fcb6a3fae124013e4521179fb703d.js",
+    "service-worker.js": "/github.io/react_router/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/github.io/react_router/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/github.io/react_router/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44185876.chunk.js.LICENSE.txt": "/github.io/react_router/static/js/2.44185876.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93cce48f.js",
+    "static/js/runtime-main.adc114f0.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.44185876.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e881f0dc.chunk.js"
+    "static/js/main.32466001.chunk.js"
   ]
 }

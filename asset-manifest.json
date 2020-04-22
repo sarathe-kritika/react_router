@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sarathe-kritika/react_router/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sarathe-kritika/react_router/static/js/main.c411bef0.chunk.js",
-    "main.js.map": "/sarathe-kritika/react_router/static/js/main.c411bef0.chunk.js.map",
-    "runtime-main.js": "/sarathe-kritika/react_router/static/js/runtime-main.ad7dc203.js",
-    "runtime-main.js.map": "/sarathe-kritika/react_router/static/js/runtime-main.ad7dc203.js.map",
-    "static/css/2.de424728.chunk.css": "/sarathe-kritika/react_router/static/css/2.de424728.chunk.css",
-    "static/js/2.44185876.chunk.js": "/sarathe-kritika/react_router/static/js/2.44185876.chunk.js",
-    "static/js/2.44185876.chunk.js.map": "/sarathe-kritika/react_router/static/js/2.44185876.chunk.js.map",
-    "index.html": "/sarathe-kritika/react_router/index.html",
-    "precache-manifest.76e68243750248aa194a473a54bbef5a.js": "/sarathe-kritika/react_router/precache-manifest.76e68243750248aa194a473a54bbef5a.js",
-    "service-worker.js": "/sarathe-kritika/react_router/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/sarathe-kritika/react_router/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/sarathe-kritika/react_router/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.44185876.chunk.js.LICENSE.txt": "/sarathe-kritika/react_router/static/js/2.44185876.chunk.js.LICENSE.txt"
+    "main.css": "/sarathe-kritika/react_routerDemo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sarathe-kritika/react_routerDemo/static/js/main.912fcacb.chunk.js",
+    "main.js.map": "/sarathe-kritika/react_routerDemo/static/js/main.912fcacb.chunk.js.map",
+    "runtime-main.js": "/sarathe-kritika/react_routerDemo/static/js/runtime-main.851abf60.js",
+    "runtime-main.js.map": "/sarathe-kritika/react_routerDemo/static/js/runtime-main.851abf60.js.map",
+    "static/css/2.de424728.chunk.css": "/sarathe-kritika/react_routerDemo/static/css/2.de424728.chunk.css",
+    "static/js/2.44185876.chunk.js": "/sarathe-kritika/react_routerDemo/static/js/2.44185876.chunk.js",
+    "static/js/2.44185876.chunk.js.map": "/sarathe-kritika/react_routerDemo/static/js/2.44185876.chunk.js.map",
+    "index.html": "/sarathe-kritika/react_routerDemo/index.html",
+    "precache-manifest.4c7c56bee8dfe34b06293f6aa6a1ba8b.js": "/sarathe-kritika/react_routerDemo/precache-manifest.4c7c56bee8dfe34b06293f6aa6a1ba8b.js",
+    "service-worker.js": "/sarathe-kritika/react_routerDemo/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/sarathe-kritika/react_routerDemo/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/sarathe-kritika/react_routerDemo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44185876.chunk.js.LICENSE.txt": "/sarathe-kritika/react_routerDemo/static/js/2.44185876.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad7dc203.js",
+    "static/js/runtime-main.851abf60.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.44185876.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c411bef0.chunk.js"
+    "static/js/main.912fcacb.chunk.js"
   ]
 }
